@@ -1,4 +1,5 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+33169115-fb64-44a3-9e1b-80d8efba68f8,61a16da7-fe37-450d-91e7-f3f960237fd1,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",New opp2,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
 532ae19a-d460-4f08-ae64-dbe8af325cf3,a6dfef47-a272-41f3-9df8-c77832e98b4c,"#N/A",2020-08-11,"#N/A","#N/A",Pipeline,"#N/A",Golden Opprotunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
 58ef1c21-545d-4e67-805a-d62001e262b0,d12a8117-e992-4a16-b934-76eac46b948a,"#N/A",2020-08-10,"#N/A","#N/A",Pipeline,"#N/A",Test opportunity1,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
 d4dbef5e-93ca-44da-8daf-9e4174368e1e,7ddeb0be-3fe9-43e5-9fbe-69ed059909db,"#N/A",2020-08-12,"#N/A","#N/A",Pipeline,"#N/A",UKB Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
