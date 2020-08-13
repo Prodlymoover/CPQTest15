@@ -1,0 +1,9 @@
+"Guid","Name","SBQQ__AggregationScope__c","SBQQ__ConstraintField__c","SBQQ__CrossOrders__c","SBQQ__CrossProducts__c","SBQQ__Description__c","SBQQ__DiscountUnit__c","SBQQ__ExcludedPricebookIds__c","SBQQ__IncludeBundledProducts__c","SBQQ__OverrideBehavior__c","SBQQ__PriceScale__c","SBQQ__QuoteLineQuantityField__c","SBQQ__QuoteLine__c","SBQQ__Quote__c","SBQQ__Type__c","SBQQ__UsePriceForAmount__c","SBQQ__UserDefined__c"
+187ce33c-6a76-43e4-a681-14eef469aa7c,SSO User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,Quantity,"#N/A","#N/A",Range,false,false
+1ba72b8d-6ae1-42b0-b2b5-cdc4f476bf9e,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,Quantity,"#N/A","#N/A",Slab,false,false
+521ca06f-1a0d-4d45-a7ce-500a62ead8f6,Tooless Cable Management,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,Quantity,"#N/A","#N/A",Range,false,false
+8042f867-8f9c-42fb-bd9d-d06ab43afc9e,VSphere,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,Quantity,"#N/A","#N/A",Range,false,false
+b054cf8e-1a75-4464-8510-f662e1b9609d,Hardware Discount Schedule,"#N/A","#N/A",true,false,"#N/A",Percent,"#N/A",false,All,2.0,Quantity,"#N/A","#N/A",Range,false,false
+c3e1c23e-8798-49a6-a2b2-58e4eccc33c4,SSO Reporting User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,Quantity,"#N/A","#N/A",Range,false,false
+caa97e97-f2d8-426b-9531-dee4c7b89acc,Term Based Tiers,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,Quantity,"#N/A","#N/A",Range,false,false
+d3dc7447-c92a-40ca-a19a-a0c148e7ee42,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,Quantity,"#N/A","#N/A",Slab,false,false
